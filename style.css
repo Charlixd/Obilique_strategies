@@ -1,0 +1,78 @@
+body {
+  font-family: 'Montserrat', sans-serif; 
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-color: #1a1a1a;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;    
+  font-size: 5em;
+  font-weight: 700;
+  color: whitesmoke;
+  margin-bottom: auto;    
+}
+
+p, a{
+  font-family: 'Montserrat', sans-serif;    
+  font-size: 0.3em;
+  width: 100%;
+  color: ghostwhite;
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;    
+  font-size: 1.5em;
+  font-weight: 700;
+  border: 2px solid;
+  border-color: lightgrey;
+  background-color: #fff;
+  color: #1a1a1a;
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  outline:0;
+  border-radius: 1em;
+  user-select: none;
+  position: static;
+}
+
+button:hover {
+ font-family: 'Montserrat', sans-serif;    
+  font-size: 1.5em;
+  font-weight: 700;
+  border: 2px solid;
+  border-color: darkgray;
+  background-color: darkgrey;
+  color: #1a1a1a;
+  display: inline-block;
+  padding: 0.5em 1.5em;
+  outline:0;
+  border-radius: 1em;
+  user-select: none;
+  position: static;
+     
+}
+
+#strategy {
+  width: 70%;
+  margin: 0 auto;
+  padding: 1em 2em;
+  font-size: 1.7249em;
+  border-radius: 1.5em;
+  color: white;
+}
+
+.lb {
+  margin-left: auto;
+  margin-right: auto;
+  width:auto;
+  border: 0;
+  position: static;    
+}
+
+
+
+
+
