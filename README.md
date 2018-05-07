@@ -1,1 +1,1 @@
-# Obilique_strategies
+# https://charlixd.github.io/Obilique_strategies/
